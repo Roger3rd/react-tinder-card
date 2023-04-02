@@ -1,4 +1,4 @@
-# Welcome to React Tinder Card contributing guide test
+# Welcome to React Tinder Card contributing guide
 
 Thank you for investing your time in contributing to my project! PRs are welcome but make sure to follow the rules listed in this guide.
 
